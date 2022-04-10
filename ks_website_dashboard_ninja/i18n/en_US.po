@@ -1,0 +1,126 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* ks_website_dashboard_ninja
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-28 08:12+0000\n"
+"PO-Revision-Date: 2021-05-28 08:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: ks_website_dashboard_ninja
+#: model_terms:ir.ui.view,arch_db:ks_website_dashboard_ninja.ks_place_into_bar
+msgid ""
+"<i class=\"fa fa-th-large\"/>\n"
+"                Dashboard Ninja Snippets"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/xml/ks_website_no_item_template.xml:0
+#, python-format
+msgid "Add"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/js/ks_dashboard.js:0
+#, python-format
+msgid "Invalid Date"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/xml/ks_website_no_item_template.xml:0
+#, python-format
+msgid "Login"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/js/ks_dashboard_filter_dialog.js:0
+#, python-format
+msgid "No Slider For this page"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/xml/ks_website_no_item_template.xml:0
+#, python-format
+msgid "No item to be shown due to security reasons."
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/xml/ks_website_no_item_template.xml:0
+#, python-format
+msgid "Please"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/js/ks_dashboard.js:0
+#, python-format
+msgid "Please enter start date and end date"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/js/ks_dashboard_filter_dialog.js:0
+#, python-format
+msgid "Select Dashboard"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/js/ks_dashboard.js:0
+#, python-format
+msgid "Start date should be less than end date"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/xml/ks_website_no_item_template.xml:0
+#, python-format
+msgid "The Dashboard is assigned here is not available now"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/xml/ks_website_no_item_template.xml:0
+#, python-format
+msgid "To add dashboard items, goto My Dashboard and click on"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#: model_terms:ir.ui.view,arch_db:ks_website_dashboard_ninja.ks_dashboard_options
+msgid "Website Dashboard"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/xml/ks_website_no_item_template.xml:0
+#, python-format
+msgid "Your personal dashboard is empty"
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/xml/ks_website_no_item_template.xml:0
+#, python-format
+msgid "button."
+msgstr ""
+
+#. module: ks_website_dashboard_ninja
+#. openerp-web
+#: code:addons/ks_website_dashboard_ninja/static/src/xml/ks_website_no_item_template.xml:0
+#, python-format
+msgid "to see your dashboard."
+msgstr ""
