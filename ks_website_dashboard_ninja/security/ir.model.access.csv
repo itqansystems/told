@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_ir_model_portal_user,ir.model,base.model_ir_model,base.group_portal,1,0,0,0
+access_ir_model_fields_portal_user,ir.model.fields,base.model_ir_model_fields,base.group_portal,1,0,0,0
+access_ir_model_public_user,ir.model,base.model_ir_model,base.group_public,1,0,0,0
+access_ir_model_fields_public_user,ir.model.fields,base.model_ir_model_fields,base.group_public,1,0,0,0
